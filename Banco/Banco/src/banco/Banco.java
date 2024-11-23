@@ -30,13 +30,13 @@ public abstract class Banco {
             input.nextLine();
 
             switch (opcao) {
-                case 1 -> cadastro();
-                case 2 -> exibirMenu();
-                case 0 -> {
+                case 1 : cadastro();
+                case 2 : exibirMenu();
+                case 0 : {
                     System.out.println("Saindo do sistema.");
                     return;
                 }
-                default -> System.out.println("Opção inválida. Tente novamente.");
+                default : System.out.println("Opção inválida. Tente novamente.");
             }
         }
     }
@@ -106,14 +106,14 @@ public abstract class Banco {
                 input.nextLine();
 
                 switch (opcao) {
-                    case 1 -> depositar(idConta);
-                    case 2 -> sacar(idConta);
-                    case 3 -> exibirSaldo(idConta);
-                    case 0 -> {
+                    case 1 : depositar(idConta);
+                    case 2 : sacar(idConta);
+                    case 3 : exibirSaldo(idConta);
+                    case 0 : {
                         System.out.println("Saindo do menu do banco...");
                         return;
                     }
-                    default -> System.out.println("Opção inválida. Tente novamente.");
+                    default : System.out.println("Opção inválida. Tente novamente.");
                 }
             }
         }
