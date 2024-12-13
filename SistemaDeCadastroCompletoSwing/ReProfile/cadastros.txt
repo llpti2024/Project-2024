@@ -1,0 +1,5 @@
+1;123;123123;123123231;Alameda das Flores;123;SP;Cordeirópolis;Jardim Flamboyant;13492140;12;1233;12332
+2;23213;12312;312;Rua Sebastião Luiz Breve;123;SP;Cordeirópolis;Jardim Juventude;13491140;13;312312;31233333333333333
+3;332123;2313;123;Rua Pedro Antonio Carandina Hespanhol;123;SP;Cordeirópolis;Vila Olympia;13491120;31;123;123@esdqe.com
+4;llevyperuchi;Lucas Levy Peruchi;13/04/1989;Alameda das Flores;252;SP;Cordeirópolis;Jardim Flamboyant;13492140;19;999501304;llevyperuchi@gmail.com
+5;213312;213123312;12/06/2000;Alameda das Flores;252;SP;Cordeirópolis;Jardim Flamboyant;13492140;32;1556;132312321
